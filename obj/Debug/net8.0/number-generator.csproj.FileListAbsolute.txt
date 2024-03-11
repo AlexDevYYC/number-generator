@@ -1,0 +1,14 @@
+/Users/alex/number-generator/bin/Debug/net8.0/number-generator
+/Users/alex/number-generator/bin/Debug/net8.0/number-generator.deps.json
+/Users/alex/number-generator/bin/Debug/net8.0/number-generator.runtimeconfig.json
+/Users/alex/number-generator/bin/Debug/net8.0/number-generator.dll
+/Users/alex/number-generator/bin/Debug/net8.0/number-generator.pdb
+/Users/alex/number-generator/obj/Debug/net8.0/number-generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/number-generator/obj/Debug/net8.0/number-generator.AssemblyInfoInputs.cache
+/Users/alex/number-generator/obj/Debug/net8.0/number-generator.AssemblyInfo.cs
+/Users/alex/number-generator/obj/Debug/net8.0/number-generator.csproj.CoreCompileInputs.cache
+/Users/alex/number-generator/obj/Debug/net8.0/number-generator.dll
+/Users/alex/number-generator/obj/Debug/net8.0/refint/number-generator.dll
+/Users/alex/number-generator/obj/Debug/net8.0/number-generator.pdb
+/Users/alex/number-generator/obj/Debug/net8.0/number-generator.genruntimeconfig.cache
+/Users/alex/number-generator/obj/Debug/net8.0/ref/number-generator.dll
